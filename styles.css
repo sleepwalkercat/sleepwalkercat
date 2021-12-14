@@ -159,7 +159,7 @@ nav > ul > li > ul > li ul{
     .container{
         width: 100%;
     }
-/* -------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------ */
 
     nav button{
         display: block;
@@ -211,7 +211,9 @@ nav > ul > li > ul > li ul{
     
     nav > ul > li > ul li a{
         text-align: left;
+        min-width: 0;
     }
+
 
     nav > ul > li > ul li:hover > a{
         background:none;
