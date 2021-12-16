@@ -51,13 +51,13 @@ nav > ul > li:hover > a{
 }
 
 nav > ul > li ul{
-    padding: 16px 0;
+    padding: 6px 0;
     border-radius: 8px;
     background-color: #fff;
 }
 
 nav > ul > li > ul li{
-    padding: 0 16px;
+    padding: 0 6px;
 }
 
 nav > ul > li > ul li a{
